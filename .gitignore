@@ -1,0 +1,1074 @@
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-intuition-on-convolutions/data/triangles/triangle_95.png
+            789 100%    9.65MB/s   00:00:00 (xfer#33550, to-check=45495/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-intuition-on-convolutions/data/triangles/triangle_96.png
+            651 100%    7.46MB/s   00:00:00 (xfer#33551, to-check=45496/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-intuition-on-convolutions/data/triangles/triangle_97.png
+            671 100%    6.29MB/s   00:00:00 (xfer#33552, to-check=45497/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-intuition-on-convolutions/data/triangles/triangle_98.png
+            725 100%    6.78MB/s   00:00:00 (xfer#33553, to-check=45498/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-intuition-on-convolutions/data/triangles/triangle_99.png
+            660 100%    5.76MB/s   00:00:00 (xfer#33554, to-check=45499/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/.DS_Store
+           6148 100%    5.03MB/s   00:00:00 (xfer#33555, to-check=45501/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/.gitignore
+            451 100%    3.41MB/s   00:00:00 (xfer#33556, to-check=45502/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/README.md
+            403 100%    4.63MB/s   00:00:00 (xfer#33557, to-check=45503/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/mnist_classification.ipynb
+          46247 100%  109.98MB/s   00:00:00 (xfer#33558, to-check=45504/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/recognition.gif
+         567115 100%  260.03MB/s   00:00:00 (xfer#33559, to-check=45505/46030)
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/.ipynb_checkpoints/
+06-Deep-Learning/03-Convolutional-Neural-Networks/data-mnist-classification/.ipynb_checkpoints/mnist_classification-checkpoint.ipynb
+          16612 100%   10.14MB/s   00:00:00 (xfer#33560, to-check=45507/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/.gitignore
+            451 100%  374.78KB/s   00:00:00 (xfer#33561, to-check=45510/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/Makefile
+             85 100%   75.26KB/s   00:00:00 (xfer#33562, to-check=45511/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/README.md
+            765 100%    4.47MB/s   00:00:00 (xfer#33563, to-check=45512/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/classify_electrocardiograms.ipynb
+         267092 100%  189.66MB/s   00:00:00 (xfer#33564, to-check=45513/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/.ipynb_checkpoints/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/.ipynb_checkpoints/classify_electrocardiograms-checkpoint.ipynb
+          19434 100%   63.05MB/s   00:00:00 (xfer#33565, to-check=45515/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/padded.pickle
+            101 100%  787.99KB/s   00:00:00 (xfer#33566, to-check=45517/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/test_padded.py
+            196 100%    2.25MB/s   00:00:00 (xfer#33567, to-check=45518/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/.gitignore
+             37 100%  311.20KB/s   00:00:00 (xfer#33568, to-check=45520/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.25MB/s   00:00:00 (xfer#33569, to-check=45521/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/README.md
+            302 100%    3.04MB/s   00:00:00 (xfer#33570, to-check=45522/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/v/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/v/cache/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/v/cache/nodeids
+             62 100%  816.57KB/s   00:00:00 (xfer#33571, to-check=45525/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/.pytest_cache/v/cache/stepwise
+              2 100%   25.05KB/s   00:00:00 (xfer#33572, to-check=45526/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/__pycache__/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-classify-electrocardiograms/tests/__pycache__/test_padded.cpython-312-pytest-8.3.4.pyc
+            882 100%    9.67MB/s   00:00:00 (xfer#33573, to-check=45528/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.gitignore
+            451 100%    3.95MB/s   00:00:00 (xfer#33574, to-check=45530/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/Makefile
+             85 100%  874.77KB/s   00:00:00 (xfer#33575, to-check=45531/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/README.md
+            535 100%    4.72MB/s   00:00:00 (xfer#33576, to-check=45532/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/weather_temperature.ipynb
+         220664 100%  196.50MB/s   00:00:00 (xfer#33577, to-check=45533/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.ipynb_checkpoints/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.ipynb_checkpoints/README-checkpoint.md
+            535 100%    3.13MB/s   00:00:00 (xfer#33578, to-check=45535/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.ipynb_checkpoints/weather_temperature-checkpoint.ipynb
+          51361 100%  122.14MB/s   00:00:00 (xfer#33579, to-check=45536/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/.gitignore
+             37 100%  517.24KB/s   00:00:00 (xfer#33580, to-check=45538/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.25MB/s   00:00:00 (xfer#33581, to-check=45539/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/README.md
+            302 100%    4.49MB/s   00:00:00 (xfer#33582, to-check=45540/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/v/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/v/cache/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/v/cache/lastfailed
+           1155 100%    8.82MB/s   00:00:00 (xfer#33583, to-check=45543/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/v/cache/nodeids
+           1071 100%   12.31MB/s   00:00:00 (xfer#33584, to-check=45544/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/.pytest_cache/v/cache/stepwise
+              2 100%   24.38KB/s   00:00:00 (xfer#33585, to-check=45545/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/folds.pickle
+            116 100%  959.87KB/s   00:00:00 (xfer#33586, to-check=45547/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/holdout.pickle
+            165 100%    1.44MB/s   00:00:00 (xfer#33587, to-check=45548/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/sequence.pickle
+            173 100%    2.12MB/s   00:00:00 (xfer#33588, to-check=45549/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/test_folds.py
+            348 100%    5.19MB/s   00:00:00 (xfer#33589, to-check=45550/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/test_holdout.py
+            520 100%    4.54MB/s   00:00:00 (xfer#33590, to-check=45551/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/test_multiple_sequences.py
+           1007 100%    8.66MB/s   00:00:00 (xfer#33591, to-check=45552/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/test_sequence.py
+            895 100%   11.51MB/s   00:00:00 (xfer#33592, to-check=45553/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/.gitignore
+             37 100%  322.45KB/s   00:00:00 (xfer#33593, to-check=45555/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.17MB/s   00:00:00 (xfer#33594, to-check=45556/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/README.md
+            302 100%    4.58MB/s   00:00:00 (xfer#33595, to-check=45557/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/v/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/v/cache/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/v/cache/lastfailed
+            146 100%  114.80KB/s   00:00:00 (xfer#33596, to-check=45560/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/v/cache/nodeids
+            649 100%    5.58MB/s   00:00:00 (xfer#33597, to-check=45561/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/.pytest_cache/v/cache/stepwise
+              2 100%   21.01KB/s   00:00:00 (xfer#33598, to-check=45562/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/__pycache__/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/__pycache__/test_folds.cpython-312-pytest-8.3.4.pyc
+           1233 100%   11.31MB/s   00:00:00 (xfer#33599, to-check=45564/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/__pycache__/test_holdout.cpython-312-pytest-8.3.4.pyc
+           1736 100%   14.77MB/s   00:00:00 (xfer#33600, to-check=45565/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-predict-temperature/tests/__pycache__/test_sequence.cpython-312-pytest-8.3.4.pyc
+           1989 100%   21.86MB/s   00:00:00 (xfer#33601, to-check=45566/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/.gitignore
+            451 100%    2.95MB/s   00:00:00 (xfer#33602, to-check=45568/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/README.md
+            650 100%    7.47MB/s   00:00:00 (xfer#33603, to-check=45569/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/X.npy
+        3000128 100%  295.63MB/s   00:00:00 (xfer#33604, to-check=45570/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/y.npy
+         200128 100%   85.70MB/s   00:00:00 (xfer#33605, to-check=45571/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/your_first_rnn.ipynb
+         284267 100%  209.68MB/s   00:00:00 (xfer#33606, to-check=45572/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/.ipynb_checkpoints/
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/.ipynb_checkpoints/README-checkpoint.md
+            650 100%    3.60MB/s   00:00:00 (xfer#33607, to-check=45574/46030)
+06-Deep-Learning/04-Recurrent-Neural-Networks/data-your-first-rnn/.ipynb_checkpoints/your_first_rnn-checkpoint.ipynb
+          17274 100%   66.95MB/s   00:00:00 (xfer#33608, to-check=45575/46030)
+06-Deep-Learning/05-Natural-Language-Processing/
+06-Deep-Learning/05-Natural-Language-Processing/data-embeddings-with-word2vec/
+06-Deep-Learning/05-Natural-Language-Processing/data-embeddings-with-word2vec/.gitignore
+            451 100%    3.31MB/s   00:00:00 (xfer#33609, to-check=45578/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-embeddings-with-word2vec/README.md
+            489 100%    3.58MB/s   00:00:00 (xfer#33610, to-check=45579/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-embeddings-with-word2vec/Understand-embeddings-with-word2vec.ipynb
+          47479 100%  119.82MB/s   00:00:00 (xfer#33611, to-check=45580/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-embeddings-with-word2vec/.ipynb_checkpoints/
+06-Deep-Learning/05-Natural-Language-Processing/data-embeddings-with-word2vec/.ipynb_checkpoints/Understand-embeddings-with-word2vec-checkpoint.ipynb
+          22788 100%   94.46MB/s   00:00:00 (xfer#33612, to-check=45582/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-sentiment-analysis-with-word2vec/
+06-Deep-Learning/05-Natural-Language-Processing/data-sentiment-analysis-with-word2vec/.gitignore
+            451 100%    3.38MB/s   00:00:00 (xfer#33613, to-check=45584/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-sentiment-analysis-with-word2vec/README.md
+            311 100%    3.46MB/s   00:00:00 (xfer#33614, to-check=45585/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-sentiment-analysis-with-word2vec/sentiment-analysis-with-word2vec.ipynb
+          35048 100%  103.54MB/s   00:00:00 (xfer#33615, to-check=45586/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-sentiment-analysis-with-word2vec/.ipynb_checkpoints/
+06-Deep-Learning/05-Natural-Language-Processing/data-sentiment-analysis-with-word2vec/.ipynb_checkpoints/sentiment-analysis-with-word2vec-checkpoint.ipynb
+          15240 100%   89.25MB/s   00:00:00 (xfer#33616, to-check=45588/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-your-first-embedding/
+06-Deep-Learning/05-Natural-Language-Processing/data-your-first-embedding/.gitignore
+            451 100%    3.26MB/s   00:00:00 (xfer#33617, to-check=45590/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-your-first-embedding/README.md
+            388 100%    4.40MB/s   00:00:00 (xfer#33618, to-check=45591/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-your-first-embedding/Your-first-embedding.ipynb
+          67902 100%  119.92MB/s   00:00:00 (xfer#33619, to-check=45592/46030)
+06-Deep-Learning/05-Natural-Language-Processing/data-your-first-embedding/.ipynb_checkpoints/
+06-Deep-Learning/05-Natural-Language-Processing/data-your-first-embedding/.ipynb_checkpoints/Your-first-embedding-checkpoint.ipynb
+          13446 100%   90.39MB/s   00:00:00 (xfer#33620, to-check=45594/46030)
+06-Deep-Learning/06-Transformers/
+06-Deep-Learning/06-Transformers/data-first-transformer/
+06-Deep-Learning/06-Transformers/data-first-transformer/.gitignore
+            451 100%    3.98MB/s   00:00:00 (xfer#33621, to-check=45597/46030)
+06-Deep-Learning/06-Transformers/data-first-transformer/README.md
+            514 100%    6.05MB/s   00:00:00 (xfer#33622, to-check=45598/46030)
+06-Deep-Learning/06-Transformers/data-first-transformer/Your-first-Transformers.ipynb
+          26361 100%  110.30MB/s   00:00:00 (xfer#33623, to-check=45599/46030)
+06-Deep-Learning/06-Transformers/data-first-transformer/.ipynb_checkpoints/
+06-Deep-Learning/06-Transformers/data-first-transformer/.ipynb_checkpoints/README-checkpoint.md
+            514 100%    3.83MB/s   00:00:00 (xfer#33624, to-check=45601/46030)
+06-Deep-Learning/06-Transformers/data-first-transformer/.ipynb_checkpoints/Your-first-Transformers-checkpoint.ipynb
+          17898 100%   84.93MB/s   00:00:00 (xfer#33625, to-check=45602/46030)
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/.gitignore
+            451 100%    3.21MB/s   00:00:00 (xfer#33626, to-check=45604/46030)
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/README.md
+            444 100%    5.16MB/s   00:00:00 (xfer#33627, to-check=45605/46030)
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/model-fine-tuning.ipynb
+         162619 100%  189.59MB/s   00:00:00 (xfer#33628, to-check=45606/46030)
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/.ipynb_checkpoints/
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/.ipynb_checkpoints/README-checkpoint.md
+            444 100%    3.42MB/s   00:00:00 (xfer#33629, to-check=45608/46030)
+06-Deep-Learning/06-Transformers/data-transformer-finetuning-challenge/.ipynb_checkpoints/model-fine-tuning-checkpoint.ipynb
+          25528 100%  107.26MB/s   00:00:00 (xfer#33630, to-check=45609/46030)
+06-Deep-Learning/07-GenAI-and-RAG/
+06-Deep-Learning/07-GenAI-and-RAG/.env
+             55 100%  446.98KB/s   00:00:00 (xfer#33631, to-check=45611/46030)
+06-Deep-Learning/07-GenAI-and-RAG/.python-version
+             14 100%   75.95KB/s   00:00:00 (xfer#33632, to-check=45612/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/.gitignore
+            451 100%    3.28MB/s   00:00:00 (xfer#33633, to-check=45614/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/README.md
+            293 100%    2.49MB/s   00:00:00 (xfer#33634, to-check=45615/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/calling-llm-apis.ipynb
+          27351 100%  129.78MB/s   00:00:00 (xfer#33635, to-check=45616/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/.ipynb_checkpoints/
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/.ipynb_checkpoints/README-checkpoint.md
+            293 100%    2.31MB/s   00:00:00 (xfer#33636, to-check=45618/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-calling-llm-apis/.ipynb_checkpoints/calling-llm-apis-checkpoint.ipynb
+          11727 100%   70.33MB/s   00:00:00 (xfer#33637, to-check=45619/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/.env.sample
+             35 100%  411.95KB/s   00:00:00 (xfer#33638, to-check=45621/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/.gitignore
+            451 100%    3.84MB/s   00:00:00 (xfer#33639, to-check=45622/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/Makefile
+            196 100%    1.70MB/s   00:00:00 (xfer#33640, to-check=45623/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/README.md
+           3685 100%   45.08MB/s   00:00:00 (xfer#33641, to-check=45624/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/check.ipynb
+           7170 100%   25.91MB/s   00:00:00 (xfer#33642, to-check=45625/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/requirements.txt
+            819 100%    6.35MB/s   00:00:00 (xfer#33643, to-check=45626/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/.ipynb_checkpoints/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/.ipynb_checkpoints/README-checkpoint.md
+           3685 100%   30.02MB/s   00:00:00 (xfer#33644, to-check=45628/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/.ipynb_checkpoints/check-checkpoint.ipynb
+           2315 100%   19.54MB/s   00:00:00 (xfer#33645, to-check=45629/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/setup.pickle
+             88 100%   74.53KB/s   00:00:00 (xfer#33646, to-check=45631/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/test_setup.py
+            183 100%    2.13MB/s   00:00:00 (xfer#33647, to-check=45632/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/.gitignore
+             37 100%  274.05KB/s   00:00:00 (xfer#33648, to-check=45634/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.22MB/s   00:00:00 (xfer#33649, to-check=45635/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/README.md
+            302 100%    2.38MB/s   00:00:00 (xfer#33650, to-check=45636/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/v/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/v/cache/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/v/cache/nodeids
+             44 100%  512.00KB/s   00:00:00 (xfer#33651, to-check=45639/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/.pytest_cache/v/cache/stepwise
+              2 100%   30.45KB/s   00:00:00 (xfer#33652, to-check=45640/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/__pycache__/
+06-Deep-Learning/07-GenAI-and-RAG/data-langchain-env/tests/__pycache__/test_setup.cpython-312-pytest-8.3.4.pyc
+            800 100%    8.12MB/s   00:00:00 (xfer#33653, to-check=45642/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/.gitignore
+            451 100%    3.07MB/s   00:00:00 (xfer#33654, to-check=45644/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/README.md
+            231 100%    2.93MB/s   00:00:00 (xfer#33655, to-check=45645/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/rag.ipynb
+         135838 100%  126.04MB/s   00:00:00 (xfer#33656, to-check=45646/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/.ipynb_checkpoints/
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/.ipynb_checkpoints/rag-checkpoint.ipynb
+          24189 100%   87.72MB/s   00:00:00 (xfer#33657, to-check=45648/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/chroma.sqlite3
+        7839744 100%  293.84MB/s   00:00:00 (xfer#33658, to-check=45650/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/8e3b9ec1-bc69-4f29-998d-0cf49452dc8d/
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/8e3b9ec1-bc69-4f29-998d-0cf49452dc8d/data_level0.bin
+         321200 100%   67.66MB/s   00:00:00 (xfer#33659, to-check=45652/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/8e3b9ec1-bc69-4f29-998d-0cf49452dc8d/header.bin
+            100 100%  393.85KB/s   00:00:00 (xfer#33660, to-check=45653/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/8e3b9ec1-bc69-4f29-998d-0cf49452dc8d/length.bin
+            400 100%    2.22MB/s   00:00:00 (xfer#33661, to-check=45654/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/chroma_db/8e3b9ec1-bc69-4f29-998d-0cf49452dc8d/link_lists.bin
+              0 nan%   00:00:00 (xfer#33662, to-check=45655/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/data/
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/data/.keep
+              0 nan%   00:00:00 (xfer#33663, to-check=45657/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-rag-with-langchain/data/CRE-10-2025-11-12_EN.pdf
+        1183269 100%  267.66MB/s   00:00:00 (xfer#33664, to-check=45658/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/.gitignore
+            451 100%  455.00KB/s   00:00:00 (xfer#33665, to-check=45660/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/README.md
+            271 100%  224.29KB/s   00:00:00 (xfer#33666, to-check=45661/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/recipe.py
+           3285 100%   11.77MB/s   00:00:00 (xfer#33667, to-check=45662/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/tool-calling.ipynb
+          57159 100%  110.13MB/s   00:00:00 (xfer#33668, to-check=45663/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/.ipynb_checkpoints/
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/.ipynb_checkpoints/tool-calling-checkpoint.ipynb
+          33014 100%  103.90MB/s   00:00:00 (xfer#33669, to-check=45665/46030)
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/__pycache__/
+06-Deep-Learning/07-GenAI-and-RAG/data-tool-calling/__pycache__/recipe.cpython-312.pyc
+           4112 100%   22.53MB/s   00:00:00 (xfer#33670, to-check=45667/46030)
+06-Deep-Learning/08-GAN-and-RL/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/.gitignore
+            451 100%    3.67MB/s   00:00:00 (xfer#33671, to-check=45670/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/README.md
+            545 100%    3.88MB/s   00:00:00 (xfer#33672, to-check=45671/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/cliff-walking.ipynb
+          80089 100%  214.43MB/s   00:00:00 (xfer#33673, to-check=45672/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/dqn_cliffwalking_model.zip
+         144603 100%  265.69MB/s   00:00:00 (xfer#33674, to-check=45673/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/.ipynb_checkpoints/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/.ipynb_checkpoints/cliff-walking-checkpoint.ipynb
+          33345 100%   74.97MB/s   00:00:00 (xfer#33675, to-check=45675/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/cliffwalking_tensorboard/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/cliffwalking_tensorboard/DQN_1/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/cliffwalking_tensorboard/DQN_1/events.out.tfevents.1763724131.macbookair-3.home.79052.0
+             88 100%  170.18KB/s   00:00:00 (xfer#33676, to-check=45678/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/dqn_tensorboard/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/dqn_tensorboard/DQN_1/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/dqn_tensorboard/DQN_1/events.out.tfevents.1763725142.macbookair-3.home.79052.1
+           7381 100%    5.67MB/s   00:00:00 (xfer#33677, to-check=45681/46030)
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/dqn_tensorboard/DQN_2/
+06-Deep-Learning/08-GAN-and-RL/data-rl-cliff-walking/dqn_tensorboard/DQN_2/events.out.tfevents.1763725368.macbookair-3.home.79052.2
+          11797 100%    8.56MB/s   00:00:00 (xfer#33678, to-check=45683/46030)
+07-ML-Ops/
+07-ML-Ops/.DS_Store
+           6148 100%   18.84MB/s   00:00:00 (xfer#33679, to-check=45685/46030)
+07-ML-Ops/01-Train-at-scale/
+07-ML-Ops/01-Train-at-scale/.DS_Store
+           8196 100%    7.55MB/s   00:00:00 (xfer#33680, to-check=45687/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.DS_Store
+           6148 100%   29.63MB/s   00:00:00 (xfer#33681, to-check=45689/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.gitignore
+            451 100%    3.52MB/s   00:00:00 (xfer#33682, to-check=45690/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/Makefile
+           3428 100%   26.99MB/s   00:00:00 (xfer#33683, to-check=45691/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/README.md
+          22847 100%   86.13MB/s   00:00:00 (xfer#33684, to-check=45692/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/requirements.txt
+            664 100%    7.03MB/s   00:00:00 (xfer#33685, to-check=45693/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/setup.py
+            646 100%    7.24MB/s   00:00:00 (xfer#33686, to-check=45694/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/.gitignore
+             37 100%  306.79KB/s   00:00:00 (xfer#33687, to-check=45696/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.25MB/s   00:00:00 (xfer#33688, to-check=45697/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/README.md
+            302 100%    4.58MB/s   00:00:00 (xfer#33689, to-check=45698/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/v/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/v/cache/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/.pytest_cache/v/cache/nodeids
+              2 100%   15.37KB/s   00:00:00 (xfer#33690, to-check=45701/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/notebooks/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/notebooks/datascientist_deliverable.ipynb
+          58974 100%  117.19MB/s   00:00:00 (xfer#33691, to-check=45703/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/PKG-INFO
+           1129 100%    8.09MB/s   00:00:00 (xfer#33692, to-check=45705/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/SOURCES.txt
+            875 100%   10.06MB/s   00:00:00 (xfer#33693, to-check=45706/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/dependency_links.txt
+              1 100%   11.47KB/s   00:00:00 (xfer#33694, to-check=45707/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/not-zip-safe
+              1 100%   14.79KB/s   00:00:00 (xfer#33695, to-check=45708/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/requires.txt
+            511 100%    4.06MB/s   00:00:00 (xfer#33696, to-check=45709/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare.egg-info/top_level.txt
+             15 100%  176.55KB/s   00:00:00 (xfer#33697, to-check=45710/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/__init__.py
+            235 100%    2.54MB/s   00:00:00 (xfer#33698, to-check=45712/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/params.py
+            984 100%    9.20MB/s   00:00:00 (xfer#33699, to-check=45713/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/utils.py
+            717 100%    9.76MB/s   00:00:00 (xfer#33700, to-check=45714/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/__pycache__/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/__pycache__/__init__.cpython-310.pyc
+            435 100%    4.72MB/s   00:00:00 (xfer#33701, to-check=45716/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/__pycache__/params.cpython-310.pyc
+            905 100%    7.31MB/s   00:00:00 (xfer#33702, to-check=45717/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/interface/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/interface/__init__.py
+              0 nan%   00:00:00 (xfer#33703, to-check=45719/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/interface/main_local.py
+           3900 100%   54.74MB/s   00:00:00 (xfer#33704, to-check=45720/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/interface/__pycache__/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/interface/__pycache__/__init__.cpython-310.pyc
+            205 100%    2.30MB/s   00:00:00 (xfer#33705, to-check=45722/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/interface/__pycache__/main_local.cpython-310.pyc
+           7468 100%   13.44MB/s   00:00:00 (xfer#33706, to-check=45723/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__init__.py
+              0 nan%   00:00:00 (xfer#33707, to-check=45725/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/data.py
+            584 100%    4.60MB/s   00:00:00 (xfer#33708, to-check=45726/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/encoders.py
+            508 100%    5.76MB/s   00:00:00 (xfer#33709, to-check=45727/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/model.py
+           1307 100%   14.17MB/s   00:00:00 (xfer#33710, to-check=45728/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/preprocessor.py
+           1034 100%    8.21MB/s   00:00:00 (xfer#33711, to-check=45729/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/registry.py
+           2757 100%   32.44MB/s   00:00:00 (xfer#33712, to-check=45730/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/__init__.cpython-310.pyc
+            204 100%    2.66MB/s   00:00:00 (xfer#33713, to-check=45732/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/data.cpython-310.pyc
+           1127 100%    8.67MB/s   00:00:00 (xfer#33714, to-check=45733/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/encoders.cpython-310.pyc
+           2830 100%   31.01MB/s   00:00:00 (xfer#33715, to-check=45734/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/model.cpython-310.pyc
+           2454 100%   13.37MB/s   00:00:00 (xfer#33716, to-check=45735/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/preprocessor.cpython-310.pyc
+           2877 100%   21.43MB/s   00:00:00 (xfer#33717, to-check=45736/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/taxifare/ml_logic/__pycache__/registry.cpython-310.pyc
+           2785 100%   21.59MB/s   00:00:00 (xfer#33718, to-check=45737/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/__init__.py
+              0 nan%   00:00:00 (xfer#33719, to-check=45739/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/conftest.py
+           1081 100%   10.52MB/s   00:00:00 (xfer#33720, to-check=45740/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/pytest.ini
+             81 100%  740.57KB/s   00:00:00 (xfer#33721, to-check=45741/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/pytest_kitt.ini
+             60 100%  680.78KB/s   00:00:00 (xfer#33722, to-check=45742/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/test_base.py
+           2763 100%   30.28MB/s   00:00:00 (xfer#33723, to-check=45743/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/.gitignore
+             37 100%  301.30KB/s   00:00:00 (xfer#33724, to-check=45745/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.15MB/s   00:00:00 (xfer#33725, to-check=45746/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/README.md
+            302 100%    3.46MB/s   00:00:00 (xfer#33726, to-check=45747/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/v/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/v/cache/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/v/cache/lastfailed
+            163 100%    2.26MB/s   00:00:00 (xfer#33727, to-check=45750/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/.pytest_cache/v/cache/nodeids
+            808 100%    6.71MB/s   00:00:00 (xfer#33728, to-check=45751/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/__pycache__/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/__pycache__/__init__.cpython-310.pyc
+            192 100%    2.05MB/s   00:00:00 (xfer#33729, to-check=45753/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/__pycache__/conftest.cpython-310-pytest-9.0.1.pyc
+           1517 100%   17.24MB/s   00:00:00 (xfer#33730, to-check=45754/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/__pycache__/test_base.cpython-310-pytest-9.0.1.pyc
+           2787 100%   29.18MB/s   00:00:00 (xfer#33731, to-check=45755/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/__init__.py
+              0 nan%   00:00:00 (xfer#33732, to-check=45757/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/test_gcp_setup.py
+           2143 100%    3.68MB/s   00:00:00 (xfer#33733, to-check=45758/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/test_package_version.py
+            516 100%    5.59MB/s   00:00:00 (xfer#33734, to-check=45759/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/__pycache__/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/__pycache__/__init__.cpython-310.pyc
+            196 100%    2.28MB/s   00:00:00 (xfer#33735, to-check=45761/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/all/__pycache__/test_gcp_setup.cpython-310-pytest-9.0.1.pyc
+           4111 100%   23.49MB/s   00:00:00 (xfer#33736, to-check=45762/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__init__.py
+              0 nan%   00:00:00 (xfer#33737, to-check=45764/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/notebook.pickle
+            242 100%    2.31MB/s   00:00:00 (xfer#33738, to-check=45765/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/test_clean.py
+            231 100%    2.98MB/s   00:00:00 (xfer#33739, to-check=45766/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/test_main_local.py
+           6215 100%   10.22MB/s   00:00:00 (xfer#33740, to-check=45767/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/test_model.py
+            703 100%    8.39MB/s   00:00:00 (xfer#33741, to-check=45768/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/test_notebook.py
+            214 100%    2.59MB/s   00:00:00 (xfer#33742, to-check=45769/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/test_output.txt
+          21438 100%   96.03MB/s   00:00:00 (xfer#33743, to-check=45770/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/test_processor_pipeline.py
+            481 100%    3.42MB/s   00:00:00 (xfer#33744, to-check=45771/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/__init__.cpython-310.pyc
+            207 100%    1.63MB/s   00:00:00 (xfer#33745, to-check=45773/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/test_clean.cpython-310-pytest-9.0.1.pyc
+           1062 100%    8.72MB/s   00:00:00 (xfer#33746, to-check=45774/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/test_main_local.cpython-310-pytest-9.0.1.pyc
+           7976 100%   55.49MB/s   00:00:00 (xfer#33747, to-check=45775/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/test_model.cpython-310-pytest-9.0.1.pyc
+           1434 100%   15.38MB/s   00:00:00 (xfer#33748, to-check=45776/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/test_notebook.cpython-310-pytest-9.0.1.pyc
+            761 100%    8.53MB/s   00:00:00 (xfer#33749, to-check=45777/46030)
+07-ML-Ops/01-Train-at-scale/data-train-at-scale/tests/train_at_scale/__pycache__/test_processor_pipeline.cpython-310-pytest-9.0.1.pyc
+           1606 100%   20.14MB/s   00:00:00 (xfer#33750, to-check=45778/46030)
+07-ML-Ops/02-Cloud-training/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/.env
+            362 100%    3.87MB/s   00:00:00 (xfer#33751, to-check=45781/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/.env.sample
+            353 100%    4.21MB/s   00:00:00 (xfer#33752, to-check=45782/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/.envrc
+              8 100%   57.79KB/s   00:00:00 (xfer#33753, to-check=45783/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/.gitignore
+            451 100%    3.38MB/s   00:00:00 (xfer#33754, to-check=45784/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/.python-version
+             13 100%  153.01KB/s   00:00:00 (xfer#33755, to-check=45785/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/Makefile
+           4902 100%   37.64MB/s   00:00:00 (xfer#33756, to-check=45786/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/README.md
+          27268 100%   63.12MB/s   00:00:00 (xfer#33757, to-check=45787/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/requirements.txt
+            735 100%    7.37MB/s   00:00:00 (xfer#33758, to-check=45788/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/setup.py
+            646 100%    7.16MB/s   00:00:00 (xfer#33759, to-check=45789/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/notebooks/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/notebooks/datascientist_deliverable.ipynb
+          58974 100%  120.97MB/s   00:00:00 (xfer#33760, to-check=45791/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/PKG-INFO
+           1129 100%    8.41MB/s   00:00:00 (xfer#33761, to-check=45793/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/SOURCES.txt
+            812 100%    9.44MB/s   00:00:00 (xfer#33762, to-check=45794/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/dependency_links.txt
+              1 100%   15.75KB/s   00:00:00 (xfer#33763, to-check=45795/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/not-zip-safe
+              1 100%   10.84KB/s   00:00:00 (xfer#33764, to-check=45796/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/requires.txt
+            511 100%    4.03MB/s   00:00:00 (xfer#33765, to-check=45797/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare.egg-info/top_level.txt
+             15 100%  187.89KB/s   00:00:00 (xfer#33766, to-check=45798/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/__init__.py
+            235 100%    2.36MB/s   00:00:00 (xfer#33767, to-check=45800/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/params.py
+           2161 100%   21.24MB/s   00:00:00 (xfer#33768, to-check=45801/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/utils.py
+            717 100%    9.76MB/s   00:00:00 (xfer#33769, to-check=45802/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/__pycache__/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/__pycache__/__init__.cpython-310.pyc
+            439 100%    4.66MB/s   00:00:00 (xfer#33770, to-check=45804/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/__pycache__/params.cpython-310.pyc
+           1740 100%   14.06MB/s   00:00:00 (xfer#33771, to-check=45805/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/__pycache__/utils.cpython-310.pyc
+            923 100%   11.43MB/s   00:00:00 (xfer#33772, to-check=45806/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/__init__.py
+              0 nan%   00:00:00 (xfer#33773, to-check=45808/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/main.py
+           7593 100%   15.09MB/s   00:00:00 (xfer#33774, to-check=45809/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/main_local.py
+          11051 100%   68.01MB/s   00:00:00 (xfer#33775, to-check=45810/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/__pycache__/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/__pycache__/__init__.cpython-310.pyc
+            209 100%    1.66MB/s   00:00:00 (xfer#33776, to-check=45812/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/interface/__pycache__/main.cpython-310.pyc
+           6047 100%   53.99MB/s   00:00:00 (xfer#33777, to-check=45813/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__init__.py
+              0 nan%   00:00:00 (xfer#33778, to-check=45815/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/data.py
+           3670 100%   29.18MB/s   00:00:00 (xfer#33779, to-check=45816/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/encoders.py
+           2641 100%   13.32MB/s   00:00:00 (xfer#33780, to-check=45817/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/model.py
+           3154 100%   33.03MB/s   00:00:00 (xfer#33781, to-check=45818/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/preprocessor.py
+           3779 100%   24.03MB/s   00:00:00 (xfer#33782, to-check=45819/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/registry.py
+           4105 100%   30.58MB/s   00:00:00 (xfer#33783, to-check=45820/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/__init__.cpython-310.pyc
+            208 100%    1.73MB/s   00:00:00 (xfer#33784, to-check=45822/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/data.cpython-310.pyc
+           3149 100%   26.35MB/s   00:00:00 (xfer#33785, to-check=45823/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/encoders.cpython-310.pyc
+           2915 100%   33.51MB/s   00:00:00 (xfer#33786, to-check=45824/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/model.cpython-310.pyc
+           3092 100%   40.42MB/s   00:00:00 (xfer#33787, to-check=45825/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/preprocessor.cpython-310.pyc
+           2881 100%   30.17MB/s   00:00:00 (xfer#33788, to-check=45826/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/taxifare/ml_logic/__pycache__/registry.cpython-310.pyc
+           3624 100%   13.66MB/s   00:00:00 (xfer#33789, to-check=45827/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/__init__.py
+              0 nan%   00:00:00 (xfer#33790, to-check=45829/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/conftest.py
+           1081 100%    9.92MB/s   00:00:00 (xfer#33791, to-check=45830/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/pytest.ini
+             81 100%  699.95KB/s   00:00:00 (xfer#33792, to-check=45831/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/pytest_kitt.ini
+             60 100%  688.40KB/s   00:00:00 (xfer#33793, to-check=45832/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/test_base.py
+           2763 100%   29.32MB/s   00:00:00 (xfer#33794, to-check=45833/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/.gitignore
+             37 100%  347.60KB/s   00:00:00 (xfer#33795, to-check=45835/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/CACHEDIR.TAG
+            191 100%    1.54MB/s   00:00:00 (xfer#33796, to-check=45836/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/README.md
+            302 100%    3.51MB/s   00:00:00 (xfer#33797, to-check=45837/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/v/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/v/cache/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/v/cache/lastfailed
+            125 100%    1.37MB/s   00:00:00 (xfer#33798, to-check=45840/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/.pytest_cache/v/cache/nodeids
+            766 100%   10.15MB/s   00:00:00 (xfer#33799, to-check=45841/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/__pycache__/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/__pycache__/__init__.cpython-310.pyc
+            196 100%    1.57MB/s   00:00:00 (xfer#33800, to-check=45843/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/__pycache__/conftest.cpython-310-pytest-9.0.1.pyc
+           1521 100%   18.16MB/s   00:00:00 (xfer#33801, to-check=45844/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/__pycache__/test_base.cpython-310-pytest-9.0.1.pyc
+           2791 100%   38.50MB/s   00:00:00 (xfer#33802, to-check=45845/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/__init__.py
+              0 nan%   00:00:00 (xfer#33803, to-check=45847/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/test_gcp_setup.py
+           2143 100%    4.24MB/s   00:00:00 (xfer#33804, to-check=45848/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/test_package_version.py
+            516 100%    5.40MB/s   00:00:00 (xfer#33805, to-check=45849/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/__pycache__/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/__pycache__/__init__.cpython-310.pyc
+            200 100%    2.12MB/s   00:00:00 (xfer#33806, to-check=45851/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/all/__pycache__/test_gcp_setup.cpython-310-pytest-9.0.1.pyc
+           4115 100%   11.88MB/s   00:00:00 (xfer#33807, to-check=45852/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/__init__.py
+              0 nan%   00:00:00 (xfer#33808, to-check=45854/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/test_cloud_data.py
+           1516 100%    9.45MB/s   00:00:00 (xfer#33809, to-check=45855/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/test_main.py
+           5607 100%    8.00MB/s   00:00:00 (xfer#33810, to-check=45856/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/test_output.txt
+          24433 100%   57.25MB/s   00:00:00 (xfer#33811, to-check=45857/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/test_vm.py
+            288 100%    2.11MB/s   00:00:00 (xfer#33812, to-check=45858/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/__pycache__/
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/__pycache__/__init__.cpython-310.pyc
+            211 100%    1.75MB/s   00:00:00 (xfer#33813, to-check=45860/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/__pycache__/test_cloud_data.cpython-310-pytest-9.0.1.pyc
+           3234 100%   38.05MB/s   00:00:00 (xfer#33814, to-check=45861/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/__pycache__/test_main.cpython-310-pytest-9.0.1.pyc
+           8229 100%   27.34MB/s   00:00:00 (xfer#33815, to-check=45862/46030)
+07-ML-Ops/02-Cloud-training/data-train-in-the-cloud/tests/cloud_training/__pycache__/test_vm.cpython-310-pytest-9.0.1.pyc
+           1177 100%   11.34MB/s   00:00:00 (xfer#33816, to-check=45863/46030)
+07-ML-Ops/03-Automate-model-lifecycle/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/.env
+            602 100%    4.99MB/s   00:00:00 (xfer#33817, to-check=45866/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/.env.sample
+            650 100%    5.35MB/s   00:00:00 (xfer#33818, to-check=45867/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/.envrc
+              8 100%   94.16KB/s   00:00:00 (xfer#33819, to-check=45868/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/.gitignore
+            451 100%    3.88MB/s   00:00:00 (xfer#33820, to-check=45869/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/.python-version
+             13 100%  173.45KB/s   00:00:00 (xfer#33821, to-check=45870/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/Makefile
+           4494 100%   38.58MB/s   00:00:00 (xfer#33822, to-check=45871/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/README.md
+          17240 100%   27.27MB/s   00:00:00 (xfer#33823, to-check=45872/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/requirements.txt
+            797 100%    7.12MB/s   00:00:00 (xfer#33824, to-check=45873/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/setup.py
+            657 100%    8.14MB/s   00:00:00 (xfer#33825, to-check=45874/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/notebooks/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/notebooks/datascientist_deliverable.ipynb
+          58974 100%  102.43MB/s   00:00:00 (xfer#33826, to-check=45876/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/PKG-INFO
+           1260 100%   15.00MB/s   00:00:00 (xfer#33827, to-check=45878/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/SOURCES.txt
+            762 100%    8.44MB/s   00:00:00 (xfer#33828, to-check=45879/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/dependency_links.txt
+              1 100%    9.78KB/s   00:00:00 (xfer#33829, to-check=45880/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/not-zip-safe
+              1 100%   14.84KB/s   00:00:00 (xfer#33830, to-check=45881/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/requires.txt
+            571 100%    5.04MB/s   00:00:00 (xfer#33831, to-check=45882/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare.egg-info/top_level.txt
+             15 100%  152.46KB/s   00:00:00 (xfer#33832, to-check=45883/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/__init__.py
+            235 100%    2.91MB/s   00:00:00 (xfer#33833, to-check=45885/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/params.py
+           2123 100%   18.58MB/s   00:00:00 (xfer#33834, to-check=45886/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/utils.py
+            717 100%    8.54MB/s   00:00:00 (xfer#33835, to-check=45887/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/__pycache__/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/__pycache__/__init__.cpython-310.pyc
+            446 100%    3.60MB/s   00:00:00 (xfer#33836, to-check=45889/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/__pycache__/params.cpython-310.pyc
+           1718 100%   23.37MB/s   00:00:00 (xfer#33837, to-check=45890/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/__pycache__/utils.cpython-310.pyc
+            930 100%    9.42MB/s   00:00:00 (xfer#33838, to-check=45891/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/__init__.py
+              0 nan%   00:00:00 (xfer#33839, to-check=45893/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/main.py
+           8396 100%    9.65MB/s   00:00:00 (xfer#33840, to-check=45894/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/workflow.py
+           3136 100%   23.02MB/s   00:00:00 (xfer#33841, to-check=45895/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/__pycache__/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/__pycache__/__init__.cpython-310.pyc
+            216 100%    2.04MB/s   00:00:00 (xfer#33842, to-check=45897/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/__pycache__/main.cpython-310.pyc
+           6370 100%    3.14MB/s   00:00:00 (xfer#33843, to-check=45898/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/interface/__pycache__/workflow.cpython-310.pyc
+           3151 100%   31.59MB/s   00:00:00 (xfer#33844, to-check=45899/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__init__.py
+              0 nan%   00:00:00 (xfer#33845, to-check=45901/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/data.py
+           3948 100%   29.85MB/s   00:00:00 (xfer#33846, to-check=45902/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/encoders.py
+           2641 100%    5.10MB/s   00:00:00 (xfer#33847, to-check=45903/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/model.py
+           3154 100%   24.64MB/s   00:00:00 (xfer#33848, to-check=45904/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/preprocessor.py
+           3779 100%   18.19MB/s   00:00:00 (xfer#33849, to-check=45905/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/registry.py
+           7033 100%   24.85MB/s   00:00:00 (xfer#33850, to-check=45906/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/__init__.cpython-310.pyc
+            215 100%    1.75MB/s   00:00:00 (xfer#33851, to-check=45908/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/data.cpython-310.pyc
+           3173 100%   27.00MB/s   00:00:00 (xfer#33852, to-check=45909/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/encoders.cpython-310.pyc
+           2922 100%   21.60MB/s   00:00:00 (xfer#33853, to-check=45910/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/model.cpython-310.pyc
+           3099 100%   10.26MB/s   00:00:00 (xfer#33854, to-check=45911/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/preprocessor.cpython-310.pyc
+           2888 100%    1.92MB/s   00:00:00 (xfer#33855, to-check=45912/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/taxifare/ml_logic/__pycache__/registry.cpython-310.pyc
+           6003 100%   30.43MB/s   00:00:00 (xfer#33856, to-check=45913/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/__init__.py
+              0 nan%   00:00:00 (xfer#33857, to-check=45915/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/conftest.py
+           1081 100%    5.36MB/s   00:00:00 (xfer#33858, to-check=45916/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/pytest.ini
+             81 100%  638.03KB/s   00:00:00 (xfer#33859, to-check=45917/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/pytest_kitt.ini
+             60 100%  724.96KB/s   00:00:00 (xfer#33860, to-check=45918/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/test_base.py
+           2763 100%   19.81MB/s   00:00:00 (xfer#33861, to-check=45919/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/.gitignore
+             37 100%  317.05KB/s   00:00:00 (xfer#33862, to-check=45921/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/CACHEDIR.TAG
+            191 100%    2.04MB/s   00:00:00 (xfer#33863, to-check=45922/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/README.md
+            302 100%    2.16MB/s   00:00:00 (xfer#33864, to-check=45923/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/v/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/v/cache/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/v/cache/lastfailed
+              2 100%   25.44KB/s   00:00:00 (xfer#33865, to-check=45926/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/.pytest_cache/v/cache/nodeids
+            731 100%    6.77MB/s   00:00:00 (xfer#33866, to-check=45927/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/__pycache__/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/__pycache__/__init__.cpython-310.pyc
+            203 100%    2.73MB/s   00:00:00 (xfer#33867, to-check=45929/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/__pycache__/conftest.cpython-310-pytest-9.0.1.pyc
+           1528 100%   11.64MB/s   00:00:00 (xfer#33868, to-check=45930/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/__pycache__/test_base.cpython-310-pytest-9.0.1.pyc
+           2798 100%   31.44MB/s   00:00:00 (xfer#33869, to-check=45931/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/all/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/all/__init__.py
+              0 nan%   00:00:00 (xfer#33870, to-check=45933/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/all/test_gcp_setup.py
+           2143 100%    7.30MB/s   00:00:00 (xfer#33871, to-check=45934/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/all/test_package_version.py
+            526 100%    5.45MB/s   00:00:00 (xfer#33872, to-check=45935/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/__init__.py
+              0 nan%   00:00:00 (xfer#33873, to-check=45937/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/test_mlflow.py
+           2222 100%   19.07MB/s   00:00:00 (xfer#33874, to-check=45938/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/test_output.txt
+           1398 100%    7.21MB/s   00:00:00 (xfer#33875, to-check=45939/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/test_prefect.py
+           1413 100%    8.37MB/s   00:00:00 (xfer#33876, to-check=45940/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/__pycache__/
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/__pycache__/__init__.cpython-310.pyc
+            213 100%    1.74MB/s   00:00:00 (xfer#33877, to-check=45942/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/__pycache__/test_mlflow.cpython-310-pytest-9.0.1.pyc
+           4300 100%   13.80MB/s   00:00:00 (xfer#33878, to-check=45943/46030)
+07-ML-Ops/03-Automate-model-lifecycle/data-model-lifecycle/tests/lifecycle/__pycache__/test_prefect.cpython-310-pytest-9.0.1.pyc
+           3780 100%    8.48MB/s   00:00:00 (xfer#33879, to-check=45944/46030)
+07-ML-Ops/04-Predict-in-production/
+07-ML-Ops/04-Predict-in-production/data-fast-api/
+07-ML-Ops/04-Predict-in-production/data-fast-api/.env
+            633 100%    5.86MB/s   00:00:00 (xfer#33880, to-check=45947/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/.env.sample
+            674 100%    9.73MB/s   00:00:00 (xfer#33881, to-check=45948/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/.env.sample.yaml
+            663 100%    5.75MB/s   00:00:00 (xfer#33882, to-check=45949/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/.envrc
+              8 100%   72.34KB/s   00:00:00 (xfer#33883, to-check=45950/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/.gitignore
+            451 100%    4.05MB/s   00:00:00 (xfer#33884, to-check=45951/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/.python-version
+             13 100%  122.13KB/s   00:00:00 (xfer#33885, to-check=45952/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/Dockerfile
+            292 100%    4.16MB/s   00:00:00 (xfer#33886, to-check=45953/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/Makefile
+           4806 100%   35.27MB/s   00:00:00 (xfer#33887, to-check=45954/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/README.md
+          38698 100%   44.62MB/s   00:00:00 (xfer#33888, to-check=45955/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/requirements.txt
+            868 100%    7.19MB/s   00:00:00 (xfer#33889, to-check=45956/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/requirements_prod.txt
+            225 100%    2.19MB/s   00:00:00 (xfer#33890, to-check=45957/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/setup.py
+            641 100%    5.32MB/s   00:00:00 (xfer#33891, to-check=45958/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/notebooks/
+07-ML-Ops/04-Predict-in-production/data-fast-api/notebooks/datascientist_deliverable.ipynb
+          58974 100%  125.28MB/s   00:00:00 (xfer#33892, to-check=45960/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/PKG-INFO
+           1375 100%   13.96MB/s   00:00:00 (xfer#33893, to-check=45962/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/SOURCES.txt
+            836 100%    8.87MB/s   00:00:00 (xfer#33894, to-check=45963/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/dependency_links.txt
+              1 100%   12.49KB/s   00:00:00 (xfer#33895, to-check=45964/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/not-zip-safe
+              1 100%    8.64KB/s   00:00:00 (xfer#33896, to-check=45965/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/requires.txt
+            627 100%    7.38MB/s   00:00:00 (xfer#33897, to-check=45966/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare.egg-info/top_level.txt
+             15 100%  190.22KB/s   00:00:00 (xfer#33898, to-check=45967/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/__init__.py
+            235 100%    3.39MB/s   00:00:00 (xfer#33899, to-check=45969/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/params.py
+           2123 100%   20.08MB/s   00:00:00 (xfer#33900, to-check=45970/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/utils.py
+            717 100%    8.12MB/s   00:00:00 (xfer#33901, to-check=45971/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/__pycache__/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/__pycache__/__init__.cpython-310.pyc
+            436 100%    4.63MB/s   00:00:00 (xfer#33902, to-check=45973/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/__pycache__/params.cpython-310.pyc
+           1708 100%   16.46MB/s   00:00:00 (xfer#33903, to-check=45974/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/__pycache__/utils.cpython-310.pyc
+            920 100%   10.42MB/s   00:00:00 (xfer#33904, to-check=45975/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/api/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/api/__init__.py
+              0 nan%   00:00:00 (xfer#33905, to-check=45977/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/api/fast.py
+           2262 100%   16.10MB/s   00:00:00 (xfer#33906, to-check=45978/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/api/__pycache__/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/api/__pycache__/__init__.cpython-310.pyc
+            200 100%    1.59MB/s   00:00:00 (xfer#33907, to-check=45980/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/api/__pycache__/fast.cpython-310.pyc
+           1733 100%   12.54MB/s   00:00:00 (xfer#33908, to-check=45981/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/interface/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/interface/__init__.py
+              0 nan%   00:00:00 (xfer#33909, to-check=45983/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/interface/main.py
+           8396 100%    8.17MB/s   00:00:00 (xfer#33910, to-check=45984/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/interface/workflow.py
+           3063 100%   23.98MB/s   00:00:00 (xfer#33911, to-check=45985/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/__init__.py
+              0 nan%   00:00:00 (xfer#33912, to-check=45987/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/data.py
+           3948 100%   28.71MB/s   00:00:00 (xfer#33913, to-check=45988/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/encoders.py
+           2641 100%    9.76MB/s   00:00:00 (xfer#33914, to-check=45989/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/model.py
+           3154 100%   32.02MB/s   00:00:00 (xfer#33915, to-check=45990/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/preprocessor.py
+           3779 100%   17.08MB/s   00:00:00 (xfer#33916, to-check=45991/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/registry.py
+           7029 100%   21.98MB/s   00:00:00 (xfer#33917, to-check=45992/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/__pycache__/
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/__pycache__/__init__.cpython-310.pyc
+            205 100%    2.75MB/s   00:00:00 (xfer#33918, to-check=45994/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/__pycache__/encoders.cpython-310.pyc
+           2912 100%   33.86MB/s   00:00:00 (xfer#33919, to-check=45995/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/__pycache__/preprocessor.cpython-310.pyc
+           2878 100%   26.90MB/s   00:00:00 (xfer#33920, to-check=45996/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/taxifare/ml_logic/__pycache__/registry.cpython-310.pyc
+           6001 100%   23.44MB/s   00:00:00 (xfer#33921, to-check=45997/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/__init__.py
+              0 nan%   00:00:00 (xfer#33922, to-check=45999/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/conftest.py
+           1081 100%    8.07MB/s   00:00:00 (xfer#33923, to-check=46000/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/pytest.ini
+             81 100%  692.64KB/s   00:00:00 (xfer#33924, to-check=46001/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/pytest_kitt.ini
+             60 100%  803.14KB/s   00:00:00 (xfer#33925, to-check=46002/46030)
+  UW PICO 5.09                                                                                              New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                     [ New file ]
+^G Get Help                        ^O WriteOut                        ^R Read File                       ^Y Prev Pg                         ^K Cut Text                        ^C Cur Pos
+^X Exit                            ^J Justify                         ^W Where is                        ^V Next Pg                         ^U UnCut Text                      ^T To Spell
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/test_base.py
+           2763 100%   29.95MB/s   00:00:00 (xfer#33926, to-check=46003/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/.pytest_cache/
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/.pytest_cache/.gitignore
+             37 100%  354.09KB/s   00:00:00 (xfer#33927, to-check=46005/46030)
+07-ML-Ops/04-Predict-in-production/data-fast-api/tests/.pytest_cache/CACHEDIR.TAG
+  UW PICO 5.09                                                                                              New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                  [ Read 20 lines ]
+^G Get Help                        ^O WriteOut                        ^R Read File                       ^Y Prev Pg                         ^K Cut Text                        ^C Cur Pos
+^X Exit                            ^J Justify                         ^W Where is                        ^V Next Pg                         ^U UnCut Text                      ^T To Spell
+  UW PICO 5.09                                                                                           File: .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                        ^O WriteOut                        ^R Read File                       ^Y Prev Pg                         ^K Cut Text                        ^C Cur Pos
+^X Exit                            ^J Justify                         ^W Where is                        ^V Next Pg                         ^U UnCut Text                      ^T To Spell# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+
